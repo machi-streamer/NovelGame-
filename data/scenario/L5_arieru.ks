@@ -2,7 +2,7 @@
 
 *start
 
-[bg  time="1000"  method="crossfade"  storage="田舎道２（日中）.jpg"  ]
+[bg  time="1000"  method="crossfade"  storage="Country_road_2_daytime.jpg"  ]
 [chara_show  name="アリエル"  time="1000"  wait="true"  storage="chara/7/20230219_woman2.png"  width="617"  height="617"  left="369"  top="102"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #アリエル
@@ -78,7 +78,7 @@
 [_tb_end_text]
 
 [chara_move  name="アリエル"  anim="false"  time="300"  effect="linear"  wait="true"  left="-35"  top="113"  width="610"  height="610"  ]
-[chara_show  name="ウサプェ"  time="1000"  wait="true"  storage="chara/8/イリエルさん.gif"  width="175"  height="210"  left="590"  top="347"  reflect="false"  ]
+[chara_show  name="ウサプェ"  time="1000"  wait="true"  storage="chara/8/usapue.gif"  width="190"  height="229"  left="590"  top="273"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #アリエル
 あ、もうこの子ったら。[p]

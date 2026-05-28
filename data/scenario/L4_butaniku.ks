@@ -2,7 +2,7 @@
 
 *start
 
-[bg  time="1000"  method="crossfade"  storage="スーパーマーケット.jpg"  ]
+[bg  time="1000"  method="crossfade"  storage="supermarket.jpg"  ]
 [chara_show  name="ぶたにく"  time="1000"  wait="true"  storage="chara/6/20170423_girl.png"  width="640"  height="640"  left="322"  top="79"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #ぶたにく

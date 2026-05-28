@@ -12,7 +12,7 @@
 ;アリエル
 [chara_new  name="アリエル"  jname="アリエル"  storage="chara/7/20230219_woman2.png"  ]
 ;ウサプェ
-[chara_new  name="ウサプェ"  jname="ウサプェ"  storage="chara/8/イリエルさん.gif"  ]
+[chara_new  name="ウサプェ"  jname="ウサプェ"  storage="chara/8/usapue.gif"  ]
 ;いずみ
 [chara_new  name="いずみ"  jname="いずみ"  storage="chara/9/20191124_girl2.png"  ]
 ;ゆかりん

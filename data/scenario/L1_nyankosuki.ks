@@ -2,7 +2,7 @@
 
 *start
 
-[bg  time="1000"  method="crossfade"  storage="ショッピングモール２.jpg"  ]
+[bg  time="1000"  method="crossfade"  storage="shopping_mall_2.jpg"  ]
 [chara_show  name="にゃんこ好き"  time="1000"  wait="true"  storage="chara/3/20170108_boy.png"  width="1200"  height="700"  ]
 [tb_start_text mode=1 ]
 #にゃんこ好き

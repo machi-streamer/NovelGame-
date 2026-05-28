@@ -2,7 +2,7 @@
 
 *start
 
-[bg  time="1000"  method="crossfade"  storage="田舎道２（日中）.jpg"  ]
+[bg  time="1000"  method="crossfade"  storage="Country_road_2_daytime.jpg"  ]
 [chara_show  name="いずみ"  time="1000"  wait="true"  storage="chara/9/20191124_girl2.png"  width="642"  height="642"  left="339"  top="79"  reflect="false"  ]
 [tb_start_text mode=1 ]
 ＃いずみ[p]

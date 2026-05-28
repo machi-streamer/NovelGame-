@@ -1,2 +1,2 @@
-[preload  storage="./data/bgimage/旅館の温泉（夜）.jpg"  ]
+[preload  storage="./data/bgimage/Hot_springs_at_the_inn_night.jpg"  ]
 [return]

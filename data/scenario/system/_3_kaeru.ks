@@ -1,2 +1,2 @@
-[preload  storage="./data/bgimage/旅館のフロント.jpg"  ]
+[preload  storage="./data/bgimage/Inn_front_desk.jpg"  ]
 [return]

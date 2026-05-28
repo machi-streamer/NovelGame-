@@ -2,7 +2,7 @@
 
 *start
 
-[bg  time="1000"  method="crossfade"  storage="旅館の温泉（夜）.jpg"  ]
+[bg  time="1000"  method="crossfade"  storage="Hot_springs_at_the_inn_night.jpg"  ]
 [chara_show  name="ごくねつ"  time="1000"  wait="true"  storage="chara/5/20200717_kimono_male.png"  width="632"  height="632"  left="356"  top="86"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #ごくねつ

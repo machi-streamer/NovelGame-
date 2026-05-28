@@ -1,2 +1,2 @@
-[preload  storage="./data/bgimage/田舎道２（日中）.jpg"  ]
+[preload  storage="./data/bgimage/Country_road_2_daytime.jpg"  ]
 [return]

@@ -1,2 +1,2 @@
-[preload  storage="./data/bgimage/ショッピングモール２.jpg"  ]
+[preload  storage="./data/bgimage/shopping_mall_2.jpg"  ]
 [return]

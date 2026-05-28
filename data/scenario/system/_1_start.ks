@@ -1,5 +1,5 @@
 [preload  storage="./data/bgimage/room.jpg"  ]
 [preload  storage="./data/bgimage/title.jpg"  ]
 [preload  storage="./data/bgimage/二人部屋（日中）.jpg"  ]
-[preload  storage="./data/bgimage/旅館のフロント.jpg"  ]
+[preload  storage="./data/bgimage/Inn_front_desk.jpg"  ]
 [return]

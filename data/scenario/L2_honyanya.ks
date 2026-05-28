@@ -2,7 +2,7 @@
 
 *start
 
-[bg  time="1000"  method="crossfade"  storage="喫茶店（日中）.jpg"  ]
+[bg  time="1000"  method="crossfade"  storage="Coffee_shop__daytime.jpg"  ]
 [chara_show  name="ほにゃにゃ"  time="1000"  wait="true"  storage="chara/4/20220108_young-lady.png"  width="651"  height="651"  left="339"  top="75"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #ほにゃにゃ

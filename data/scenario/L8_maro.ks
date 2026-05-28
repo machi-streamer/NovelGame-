@@ -2,7 +2,7 @@
 
 *start
 
-[bg  time="1000"  method="crossfade"  storage="田舎道２（日中）.jpg"  ]
+[bg  time="1000"  method="crossfade"  storage="Country_road_2_daytime.jpg"  ]
 [chara_show  name="共有"  time="1000"  wait="true"  storage="chara/11/20180311_host.png"  width="731"  height="731"  left="292"  top="-7"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #リスナ

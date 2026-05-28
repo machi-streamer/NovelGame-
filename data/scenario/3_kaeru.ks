@@ -2,7 +2,7 @@
 
 *start
 
-[bg  time="1000"  method="crossfade"  storage="旅館のフロント.jpg"  ]
+[bg  time="1000"  method="crossfade"  storage="Inn_front_desk.jpg"  ]
 [chara_show  name="エドカエル"  time="1000"  wait="true"  storage="chara/2/20220108_hostess.png"  width="695"  height="695"  top="23"  left="279"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #エドカエル
